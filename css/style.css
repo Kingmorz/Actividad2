@@ -1,0 +1,30 @@
+h1{
+    align-items: center;
+    background-color: darkorchid;
+    color: darkturquoise;
+    padding: 2rem;
+}
+
+.tgit{
+    background-color: aquamarine;
+    color: darkblue;
+    padding: 1rem;
+}
+
+.git{
+    background-color: blue;
+    color: aqua;
+    padding: 0.5rem;
+}
+
+.tgithub{
+    background-color: aquamarine;
+    color: darkblue;
+    padding: 1rem;
+}
+
+.github{
+    background-color: blue;
+    color: aqua;
+    padding: 1rem;
+}
